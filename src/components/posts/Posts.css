@@ -1,0 +1,9 @@
+.posts {
+  margin-top: 50px;
+  flex: 9;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  justify-items: center;
+  gap: 30px 20px;
+}
