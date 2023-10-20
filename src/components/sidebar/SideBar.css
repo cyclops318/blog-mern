@@ -51,6 +51,10 @@
   row-gap: 15px;
 }
 
+.sideBarListItem {
+  text-transform: capitalize;
+}
+
 .sideBarSocial {
   margin-top: 15px;
   width: 250px;
